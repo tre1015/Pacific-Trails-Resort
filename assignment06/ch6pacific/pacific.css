@@ -1,0 +1,82 @@
+/*TraMel Marshall 3/24/2019*/
+body {background-color:#90C7E3;
+		color:#666666;
+		font-family: Arial, Helvetica, sans-serif;
+		background-image: linear-gradient(#FFFFFF,#90C7E3);
+	}
+	
+#wrapper {width: 80%;
+	margin: auto;
+	background-color:#FFFFFF;
+	min-width: 960px;
+	max-width:2048px;
+	box-shadow:3px 3px 3px #333333;
+	}
+	
+#homehero{height:300px;
+	background-image:url(images/coast.jpg);
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	}
+	
+#yurthero{height:300px;
+	background-image:url(images/yurthero.jpg);
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	}
+	
+#trailhero{height:300px;
+			background-image:url(images/trailhero.jpg);
+			background-repeat:no-repeat;
+			background-size:100% 100%;}
+	
+header {background-color:#000033;
+			color:#FFFFFF;
+			background-image: url(sunset.jpg);
+			background-repeat: no-repeat;
+			background-position: right;
+			text-align:center;
+			height:60px;
+			padding-top:15px;
+			color: #FFFFFF;
+			
+			}
+nav{ background-color:#FFFFFF;
+		font-weight: bold;
+		text-align:center;
+		padding:10px;}
+		
+h1 {margin-bottom:0;
+	margin-top:0px;
+	font-family: Georgia, 'Times New Roman', serif;
+	}
+
+h2 {color:#3399CC;
+	text-shadow: 1px 1px 1px #CCCCCC;
+	font-family: Georgia, 'Times New Roman', serif;
+		}
+		
+h3 {font-family: Georgia, 'Times New Roman', serif;
+}
+main {padding-top:1px;
+		padding-right:20px;
+		padding-bottom:20px;
+		padding-left:20px;
+		display:block;
+	
+}	
+dt{color:#000033;
+		}
+ul {list-style-image: url(marker.gif);
+	}
+footer {font-size: 75%;
+		padding:20px;
+		font-style: italic;
+		font-family: Georgia, 'Times New Roman', serif;
+		text-align: center;
+		}	
+.resort {color:#5C7FA3;
+		font-weight: bold;
+		}	
+#contact {font-size: 90%;
+}
